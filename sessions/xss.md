@@ -4,7 +4,7 @@ title: XSS and Authorization
 video_src: https://www.youtube-nocookie.com/embed/HGaFCcWM57U
 ---
 
-In this session we'll discuss cross-site scripting, an extremely prevalent vulnerability, along with authorization failures.
+In this session We will Just Laugh hhahahahahahhahahha.
 
 What you'll learn
 -----------------
